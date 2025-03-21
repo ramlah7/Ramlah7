@@ -1,8 +1,8 @@
 <h1 align="center">Hey there 👋</h1>
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQIC2D5z_kzPOGO62dz8SH4qVr6nQMIWHNUA&s" alt="waving girl" width="200"/>
+</p>
 
 ###
 
