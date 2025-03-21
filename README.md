@@ -44,7 +44,7 @@ I'm Ramlah Munir from Pakistan<br><br>
 
 ###
 
-<h3 align="left">🐍 Snake Contribution Animation</h3>
+<h3 align="left"> Contribution </h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ramlah7/Ramlah7/output/snake.svg" alt="Snake animation" />
