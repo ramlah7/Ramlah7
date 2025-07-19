@@ -109,9 +109,9 @@ Currently on an exciting journey through **Cybersecurity**, **AI/ML**, and **Dat
 ## 📊 Weekly Coding Activity
 
 <div align="center">
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+</div>
 
 ### 💻 My Coding Journey
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ramlah7&theme=radical&hide_border=false&layout=compact"/>
