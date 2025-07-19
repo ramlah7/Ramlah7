@@ -110,6 +110,52 @@ Currently on an exciting journey through **Cybersecurity**, **AI/ML**, and **Dat
 
 <div align="center">
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 80.1 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 16 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+🌆 Daytime                120 commits         ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+🌃 Evening                131 commits         ████████░░░░░░░░░░░░░░░░░   30.61 % 
+🌙 Night                  140 commits         ████████░░░░░░░░░░░░░░░░░   32.71 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   73 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Tuesday                  56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Wednesday                64 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Thursday                 55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Friday                   39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Saturday                 13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Sunday                   128 commits         ███████░░░░░░░░░░░░░░░░░░   29.91 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Karachi
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 19/07/2025 20:25:32 UTC
 <!--END_SECTION:waka-->
 </div>
 
