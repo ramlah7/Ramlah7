@@ -94,10 +94,15 @@ Currently on an exciting journey through **Cybersecurity**, **AI/ML**, and **Dat
 <img src="https://github-readme-stats.vercel.app/api?username=Ramlah7&theme=radical&hide_border=false&show_icons=true&count_private=true&include_all_commits=true"/>
 
 ### 🌟 Language Distribution
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramlah7&layout=compact&theme=radical&hide_border=false&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramlah7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 
 ### 📊 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramlah7&theme=radical&hide_border=true&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFFFFF"/>
+
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ramlah7&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=Ramlah7&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4"/>
