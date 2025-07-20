@@ -6,7 +6,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQIC2D5z_kzPOGO62dz8SH4qVr6nQMIWHNUA&s" alt="waving girl" width="200"/>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%92;AI%2FML+Explorer+%F0%9F%A4%96;Data+Science+Learner+%F0%9F%93%8A;Ethical+Hacker+in+Training+%E2%9A%A1;Problem+Solver+%26+Code+Breaker+%F0%9F%A7%A9" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%92;AI%2FML+Explorer+%F0%9F%A4%96;Data+Science+Learner+%F0%9F%93%8A;Problem+Solver+%26+Code+Breaker+%F0%9F%A7%A9" alt="Typing SVG" />
 
 </div>
 
