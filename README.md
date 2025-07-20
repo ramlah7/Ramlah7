@@ -111,56 +111,6 @@ Currently on an exciting journey through **Cybersecurity**, **AI/ML**, and **Dat
 
 ---
 
-## 📊 Weekly Coding Activity
-
-<div align="center">
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-105-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 80.3 kB Used in GitHub's Storage 
- > 
-> 🏆 460 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 17 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
-**I Mostly Code in Python** 
-
-```text
-Python                   11 repos            ██████████████████░░░░░░░   73.33 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Ramlah7/Ramlah7/main/assets/bar_graph.png)
-
-
- Last Updated on 20/07/2025 20:16:30 UTC
-<!--END_SECTION:waka-->
-</div>
-
-### 💻 My Coding Journey
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ramlah7&theme=radical&hide_border=false&layout=compact"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Snake Game
 
 <div align="center">
@@ -229,6 +179,9 @@ HTML                     1 repo              ██░░░░░░░░░�
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramlah-munir-6b2320344/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramlahmunir786@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ramlah7)
+
+[![WakaTime](https://img.shields.io/badge/WakaTime-Read%20My%20Coding%20Stats-blueviolet?style=for-the-badge&logo=wakatime)](https://wakatime.com/@Ramlah7)
+
 
 ### 💬 Ask Me About
 `Cybersecurity` • `Python` • `Data Science` • `Machine Learning` • `Ethical Hacking` • `Problem Solving`
