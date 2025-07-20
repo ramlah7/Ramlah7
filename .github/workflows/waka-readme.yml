@@ -2,32 +2,40 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs daily at 12:30 AM IST (which is 7 PM UTC)
+    # Runs daily at 12:30 AM IST (which is 7:00 PM UTC)
     - cron: '30 18 * * *'
-  workflow_dispatch:
+  workflow_dispatch:  # Allows you to run the workflow manually from the GitHub Actions tab
 
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Update README with WakaTime Stats
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write  # Required to update the README
+      contents: write  # This allows the workflow to commit changes to the repo
 
     steps:
-      - name: Update waka-readme-stats
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: 🧠 Generate WakaTime Stats
         uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}  # Set this in repo secrets
-          GH_TOKEN: ${{ secrets.GH_PAT }}                    # Use your Personal Access Token here
-          SHOW_OS: "False"
-          SHOW_PROJECTS: "False"
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_EDITORS: "False"
-          SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_LOC_CHART: "False"
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}  # Add in repo secrets
+          GH_TOKEN: ${{ secrets.GH_PAT }}  # Your personal access token
+
+          # Optional Customizations
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_EDITORS: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_LINES_OF_CODE: "True"
-          SHOW_SHORT_INFO: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
           SHOW_COMMIT: "True"
           SHOW_UPDATED_DATE: "True"
-          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_SHORT_INFO: "True"
+          SHOW_PROFILE_VIEWS: "True"
+          SHOW_LOC_CHART: "True"
+          LOCALE: "en"
+          TIMEZONE: "Asia/Karachi"  # Adjust according to your location
+          COMMIT_MESSAGE: "📊 Updated WakaTime stats in README"
