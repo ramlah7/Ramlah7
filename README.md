@@ -94,7 +94,7 @@ Currently on an exciting journey through **Cybersecurity**, **AI/ML**, and **Dat
 <img src="https://github-readme-stats.vercel.app/api?username=Ramlah7&theme=radical&hide_border=false&show_icons=true&count_private=true&include_all_commits=true"/>
 
 ### 🌟 Language Distribution
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramlah7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramlah7&layout=compact&theme=radical" height="180"/>
 
 ### 📊 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramlah7&theme=radical&hide_border=true&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFFFFF"/>
