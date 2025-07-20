@@ -115,7 +115,9 @@ Currently on an exciting journey through **Cybersecurity**, **AI/ML**, and **Dat
 
 <div align="center">
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-105-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
 
@@ -123,44 +125,32 @@ Currently on an exciting journey through **Cybersecurity**, **AI/ML**, and **Dat
 
 > 📦 80.3 kB Used in GitHub's Storage 
  > 
+> 🏆 460 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 17 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm a Night 🦉** 
+**I Mostly Code in Python** 
 
 ```text
-🌞 Morning                37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-🌆 Daytime                120 commits         ███████░░░░░░░░░░░░░░░░░░   26.91 % 
-🌃 Evening                146 commits         ████████░░░░░░░░░░░░░░░░░   32.74 % 
-🌙 Night                  143 commits         ████████░░░░░░░░░░░░░░░░░   32.06 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   73 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-Tuesday                  56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Wednesday                64 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Thursday                 55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Friday                   39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-Saturday                 13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Sunday                   146 commits         ████████░░░░░░░░░░░░░░░░░   32.74 % 
+Python                   11 repos            ██████████████████░░░░░░░   73.33 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Karachi
+**Timeline**
 
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
+![Lines of Code chart](https://raw.githubusercontent.com/Ramlah7/Ramlah7/main/assets/bar_graph.png)
 
 
- Last Updated on 20/07/2025 18:52:10 UTC
+ Last Updated on 20/07/2025 20:16:30 UTC
 <!--END_SECTION:waka-->
 </div>
 
