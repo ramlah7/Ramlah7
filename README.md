@@ -91,7 +91,7 @@ Currently on an exciting journey through **Cybersecurity**, **AI/ML**, and **Dat
 <img src="https://streak-stats.demolab.com?user=Ramlah7&theme=radical&hide_border=false&fire=FF6B9D&ring=FF6B9D&currStreakLabel=FF6B9D" alt="GitHub Streak"/>
 
 ### 📈 Performance Metrics
-<img src="https://github-readme-stats.vercel.app/api?username=Ramlah7&theme=radical&hide_border=false&show_icons=true&count_private=true&include_all_commits=true"/>
+<img src=""/>
 
 ### 🌟 Language Distribution
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramlah7&layout=compact&theme=radical&langs_count=10&hide_progress=false" height="180"/>
