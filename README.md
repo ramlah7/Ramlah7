@@ -88,7 +88,7 @@ Currently on an exciting journey through **Cybersecurity**, **AI/ML**, and **Dat
 ![](https://nirzak-streak-stats.vercel.app/?user=Ramlah7&theme=radical&hide_border=false)<br/>
 
 ### 📈 Performance Metrics
-![](https://github-readme-stats.vercel.app/api?username=Ramlah7&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Ramlah7&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
 
 ### 🌟 Language Distribution
