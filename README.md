@@ -183,13 +183,22 @@ Currently on an exciting journey through **Cybersecurity**, **AI/ML**, and **Dat
 [![WakaTime](https://img.shields.io/badge/WakaTime-Read%20My%20Coding%20Stats-blueviolet?style=for-the-badge&logo=wakatime)](https://wakatime.com/@Ramlah7)
 
 
+<details>
+  <summary>💻 Click to view my weekly coding stats </summary>
+  <br><br>
+
+  ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ramlah7)
+
+
+</details>
+
+
+
 ### 💬 Ask Me About
 `Cybersecurity` • `Python` • `Data Science` • `Machine Learning` • `Ethical Hacking` • `Problem Solving`
 
 ---
 
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Ramlah7&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 ### ⚡ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
@@ -199,3 +208,5 @@ Currently on an exciting journey through **Cybersecurity**, **AI/ML**, and **Dat
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling"/>
 
 </div>
+
+
