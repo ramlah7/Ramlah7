@@ -55,9 +55,9 @@ Currently on an exciting journey through **Cybersecurity**, **AI/ML**, and **Dat
 
 <div align="center">
 
-| 🔐 **Cybersecurity** | 🤖 **AI & Machine Learning** | 📊 **Data Science** |
-|:---:|:---:|:---:|
-| Learning ethical hacking, network security, and digital forensics | Exploring algorithms, neural networks, and deep learning | Analyzing patterns and extracting insights from data |
+| 🤖 **AI & Machine Learning** | 📊 **Data Science** |
+|:---:|:---:|
+| Exploring algorithms, neural networks, and deep learning | Analyzing patterns and extracting insights from data |
 
 </div>
 
